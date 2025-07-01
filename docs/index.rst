@@ -6,7 +6,7 @@ version of Microsoft's latest operating system. Activation unlocks all features,
 removes the watermark, and guarantees security updates. Normally, this requires 
 a valid product key. But what if you don’t have one? 😬
 
-.. image:: start.png
+.. image:: activate.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
